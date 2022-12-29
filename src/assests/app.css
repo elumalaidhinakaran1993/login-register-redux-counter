@@ -1,0 +1,36 @@
+.formBackground{
+
+    background-color: #F3F2EF;
+
+}
+.error{
+
+    position: absolute;
+}
+
+.selectLink{
+    cursor: pointer;
+}
+
+.FormContent {
+    color: #191919;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+      "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell,
+      "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25px;
+  }
+
+  
+.FormPlaceholder {
+    color: rgba(0, 0, 0, 0.9);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+      "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell,
+      "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
